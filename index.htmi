@@ -53,7 +53,7 @@
         <button onclick="alert('이용안내 페이지로 이동합니다.')">📖 이용안내</button>
     </div>
 
-    <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=35b5b863774f0cef13d397c765007386"></script>
+    <script type="text/javascript" src="https://dapi.kakao.com/v2/maps/sdk.js?appkey=35b5b863774f0cef13d397c765007386"></script>
     
     <script>
         var mapContainer = document.getElementById('map'); 
